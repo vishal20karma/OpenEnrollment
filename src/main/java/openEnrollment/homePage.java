@@ -9,4 +9,8 @@ public class homePage {
 	
 	}
 
+	public void sideBr()   {
+	System.out.println("Side Branch");	
+	}
+	
 }
