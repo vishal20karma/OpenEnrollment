@@ -4,7 +4,7 @@ public class menuPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//  Add to Develop branch
+
 	System.out.println("All cases are working fine");	
 	
 	}
