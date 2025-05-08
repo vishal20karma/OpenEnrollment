@@ -9,8 +9,12 @@ public class homePage {
 	
 	}
 
-	public void sideBr()   {
-	System.out.println("Side Branch");	
+	public void sideBr1()   {
+	System.out.println("Side Branch1");	
+	}
+	
+	public void sideBr2()   {
+	System.out.println("Side Branch2");	
 	}
 	
 }
